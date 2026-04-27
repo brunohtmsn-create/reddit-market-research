@@ -7,7 +7,7 @@ através de dados públicos do Reddit.
 
 Uso ético: Respeita rate limits, não faz spam, apenas leitura de dados públicos.
 
-Autor: [Seu Nome]
+Autor: Bruno Conde
 Licença: MIT
 """
 
